@@ -1,5 +1,5 @@
 # python-api-challenge-G
-An analysis of WeatherPy and VacationPy using pandas and python.
+An analysis of WeatherPy and VacationPy using pandas and python and an API.
 
 Assisted by tutor (G. Perez)
 
